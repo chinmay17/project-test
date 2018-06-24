@@ -1,4 +1,4 @@
 //file1.js
-console.log('file1', 'updated');
+console.log('file-1', 'updated');
 //add a new line
 
